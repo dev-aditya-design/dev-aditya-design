@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**dev-aditya-design/dev-aditya-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Developer | AI & Automation | Python | Generative AI
 
-Here are some ideas to get you started:
+I'm an aspiring AI developer focused on learning, building, and experimenting with modern AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into practical projects and exploring how AI can automate real-world tasks.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 Artificial Intelligence & Generative AI
+- ⚙️ AI Automation & AI Agents
+- 🐍 Python Development
+- 🧠 Learning Machine Learning
+- 🛠️ Building practical AI projects
+- 📚 Continuously improving my development skills
+
+---
+
+## 🧰 Skills & Technologies
+
+**Languages**
+- Python
+- HTML
+- CSS
+- JavaScript
+
+**AI & Development**
+- Generative AI
+- AI Automation
+- AI Agents
+- Prompt Engineering
+- Git & GitHub
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+I'm currently building and documenting my projects here.
+
+More projects coming soon 🚀
+
+---
+
+## 🎯 My Goal
+
+To become a skilled AI developer and build useful AI-powered products, automation systems, and intelligent applications.
+
+---
+
+## 📫 Connect With Me
+
+GitHub: [@dev-aditya-design](https://github.com/dev-aditya-design)
+
+---
+
+⭐ Thanks for visiting my profile!

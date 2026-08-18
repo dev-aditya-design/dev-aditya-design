@@ -34,6 +34,7 @@ I enjoy turning ideas into practical projects and exploring how AI can automate 
 - Prompt Engineering
 - Git & GitHub
 - VS Code
+- n8n Automation
 
 ---
 
@@ -54,6 +55,9 @@ To become a skilled AI developer and build useful AI-powered products, automatio
 ## 📫 Connect With Me
 
 GitHub: [@dev-aditya-design](https://github.com/dev-aditya-design)
+
+Email:
+dev.adi.xo@gmail.com
 
 ---
 

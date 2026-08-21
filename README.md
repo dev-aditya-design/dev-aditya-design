@@ -69,7 +69,7 @@ For freelance work or professional opportunities, feel free to connect with me t
 https://dev-aditya-design.github.io/ai-developer-portfolio/
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/aditya-srivastava-b97a48429
+https://www.linkedin.com/in/dev-adi-xo
 
 💻 **GitHub:**  
 https://github.com/dev-aditya-design

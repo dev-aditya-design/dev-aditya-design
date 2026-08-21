@@ -1,107 +1,82 @@
 # Hi, I'm Aditya 👋
 
-### AI Developer & Software Engineer in Progress
+### Aspiring AI Developer & Software Engineer
 
-BCA student focused on **Artificial Intelligence, Generative AI, Automation, Data Science and Software Engineering**.
+I’m focused on building strong foundations in **Artificial Intelligence, Software Engineering, Machine Learning, and Automation** through continuous learning and hands-on development.
 
-I enjoy learning by building practical projects and exploring how AI can be combined with software engineering to create useful products.
-
----
-
-## 🚀 About Me
-
-- 🎓 BCA Student at IFTM University, Moradabad
-- 🤖 Focused on Artificial Intelligence & Generative AI
-- ⚡ Exploring AI Agents and AI Automation
-- 🐍 Learning Python for AI & software development
-- 🌐 Building with HTML, CSS & JavaScript
-- 🔄 Exploring n8n workflow automation
-- 🧩 Practicing Data Structures & Algorithms
-- 🎨 Interested in UI/UX
-- 💻 Working toward becoming a Software Engineer
+I enjoy understanding how AI and software can work together to create practical, efficient, and user-focused solutions.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧠 Technical Focus
 
-### Programming
-`Python` `JavaScript` `HTML` `CSS`
-
-### AI & Data
-`Artificial Intelligence` `Generative AI` `Machine Learning` `Data Science` `AI Agents`
-
-### Automation & Development
-`n8n` `Claude Code` `Git` `GitHub`
-
-### Computer Science
-`Data Structures & Algorithms` `Software Engineering`
-
-### Design
-`UI/UX`
-
----
-
-## 📌 Featured Project
-
-### 🌐 AI Developer Portfolio
-
-My personal developer portfolio showcasing my skills, projects, learning journey and professional profile.
-
-🔗 **[Visit Portfolio](https://dev-aditya-design.github.io/ai-developer-portfolio/)**
-
-🔗 **[View Repository](https://github.com/dev-aditya-design/ai-developer-portfolio)**
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**  
-IFTM University, Moradabad  
-**2024 – 2027**
-
----
-
-## 🏆 Certification
-
-**Generative AI Mastermind**  
-Outskill
-
----
-
-## 📚 Currently Learning
-
-- Machine Learning
-- Generative AI
-- AI Agents
-- AI Automation
-- n8n
-- Data Science
-- DSA
-- Software Engineering
-- UI/UX
-- JavaScript
+**Programming**
 - Python
+- JavaScript
+- HTML & CSS
+
+**AI & Data**
+- Artificial Intelligence
+- Machine Learning Fundamentals
+- Generative AI
+- Natural Language Processing Fundamentals
+- Data Science Fundamentals
+
+**Development & Automation**
+- Git & GitHub
+- Streamlit
+- Scikit-learn
+- n8n
+- AI Agents
+- Workflow Automation
+
+**Core Foundations**
+- Data Structures & Algorithms
+- Problem Solving
+- Software Engineering
+- UI/UX Fundamentals
 
 ---
 
-## 🎯 Career Direction
+## 🎯 Current Focus
 
-I'm working toward becoming an **AI-focused Software Engineer**, building intelligent applications, automation systems and practical software products.
-
----
-
-## 🌐 Portfolio
-
-**[Visit My Portfolio →](https://dev-aditya-design.github.io/ai-developer-portfolio/)**
+- Strengthening Python and software development fundamentals
+- Learning practical Machine Learning and Generative AI
+- Exploring AI agents and intelligent automation
+- Improving problem-solving and DSA skills
+- Building clean and maintainable software
 
 ---
 
-## 📫 Contact
+## 💼 Open to Opportunities
 
-📧 **dev.adi.xo@gmail.com**
+I’m open to:
 
-💻 **[GitHub](https://github.com/dev-aditya-design)**
+- AI / ML internships
+- Software Engineering internships
+- Python development opportunities
+- Part-time freelance work
+- Web & software development projects
+- Remote collaborations
+
+For freelance work or professional opportunities, feel free to connect with me through LinkedIn.
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🔗 Connect
+
+🌐 **Portfolio:**  
+https://dev-aditya-design.github.io/ai-developer-portfolio/
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/aditya-srivastava-b97a48429
+
+💻 **GitHub:**  
+https://github.com/dev-aditya-design
+
+📧 **Email:**  
+dev.adi.xo@gmail.com
+
+---
+
+> Learning consistently. Building practically. Growing one step at a time.

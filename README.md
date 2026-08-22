@@ -66,7 +66,7 @@ For freelance work or professional opportunities, feel free to connect with me t
 ## 🔗 Connect
 
 🌐 **Portfolio:**  
-https://dev-aditya-design.github.io/ai-developer-portfolio/
+https://dev-aditya-design.github.io/aditya-portfolio-v2/
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/dev-adi-xo

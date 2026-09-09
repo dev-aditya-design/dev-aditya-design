@@ -1,129 +1,119 @@
-# Hi, I'm Aditya 👋
+<div align="center">
 
-## AI Developer | Software Engineer | AI Agents & Automation
+# Hi, I'm Aditya
 
-I build practical **AI-powered applications, intelligent automation systems, and modern web solutions**.
+### 🤖 AI Developer & Software Engineer
 
-My focus is on combining **Artificial Intelligence, Software Engineering, and Web Development** to create useful products that solve real-world problems.
+Building practical, efficient and user-focused solutions with  
+**Artificial Intelligence • Software Engineering • Machine Learning • Automation**
 
-Currently, I’m strengthening my expertise in **Python, Machine Learning, Generative AI, AI Agents, Automation, and Full-Stack Development** while continuously building and shipping hands-on projects.
-
----
-
-## 🚀 What I Build
-
-- 🤖 AI-powered web applications
-- 🧠 AI Agents & intelligent workflows
-- ⚡ Business process automation
-- 🌐 Modern responsive websites
-- 📊 Data-driven applications
-- 🐍 Python-based tools and software
-- 🔗 API-integrated applications
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Languages
+I'm focused on building strong foundations in **Artificial Intelligence, Software Engineering, Machine Learning, and Automation** through continuous learning and hands-on development.
+
+I enjoy exploring how **AI and software can work together** to solve real-world problems and create useful digital products.
+
+---
+
+## 🧠 Technical Focus
+
+### 💻 Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI, ML & Data
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+### ⚙️ Development
 
-### Development & Automation
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🤖 AI & Automation
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+`AI Agents` • `Machine Learning` • `Prompt Engineering` • `Workflow Automation` • `NLP Fundamentals`
+
+### 🛠️ Tools & Deployment
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-5A29E4?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Workflow_Automation-00A67E?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## 🎯 Current Focus
 
-### 🤖 AI Opportunity Scout
-
-An AI-focused opportunity discovery application designed to help users discover relevant opportunities through a streamlined interface.
-
-**Focus:** Python • Streamlit • APIs • AI Applications
-
----
-
-### 📄 AI Resume Analyzer
-
-An intelligent resume analysis application designed to evaluate resume content and provide useful insights for improving professional profiles.
-
-**Focus:** AI • Python • Resume Analysis • Web Application
+- 🐍 Strengthening **Python & Software Engineering**
+- 🧠 Learning practical **Machine Learning & Generative AI**
+- 🤖 Exploring **AI Agents & Intelligent Automation**
+- ⚡ Building **Full-Stack AI Applications**
+- 🧩 Improving **Problem Solving & DSA**
+- 🗄️ Strengthening **SQL & Database Fundamentals**
 
 ---
 
-### 🌐 AI Developer Portfolio
+## 📊 GitHub Activity
 
-A modern developer portfolio showcasing my projects, technical skills, development journey, and professional work.
-
-**Focus:** Web Development • UI/UX • Responsive Design • Deployment
-
----
-
-## 🎯 Currently Working On
-
-- Advanced Python & Software Development
-- AI Agents and Agentic Workflows
-- Intelligent Business Automation
-- Machine Learning & Generative AI
-- Full-Stack AI Applications
-- Data Structures & Algorithms
-- API Integration
-- Building production-oriented projects
-
----
-
-## 💼 Available For
-
-I’m interested in opportunities where I can contribute, learn, and build real-world solutions.
-
-- AI / Machine Learning Internships
-- Software Engineering Internships
-- Python Development
-- AI Automation Projects
-- AI-powered Web Applications
-- Website Development
-- Freelance Development Projects
-- Remote Collaborations
-
----
-
-## 📈 GitHub Stats
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-aditya-design&show_icons=true&hide_border=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aditya-design&layout=compact&hide_border=true&theme=github_dark)
 
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, founders, clients, and teams working on interesting technology.
-
-**Portfolio:**  
-https://dev-aditya-design.github.io/aditya-portfolio-v2/
-
-**LinkedIn:**  
-https://www.linkedin.com/in/dev-adi-xo
-
-**GitHub:**  
-https://github.com/dev-aditya-design
-
-**Email:**  
-dev.adi.xo@gmail.com
+</div>
 
 ---
 
-### Building intelligent software. Automating workflows. Solving real-world problems with AI.
+## 💼 Open to Opportunities
+
+🎯 **AI / ML Internships**  
+💻 **Software Engineering Internships**  
+🐍 **Python Development**  
+🌐 **Full-Stack Development**  
+🤖 **AI & Automation Projects**  
+💼 **Freelance Development**  
+🌍 **Remote Collaborations**
+
+For freelance work, internships or professional opportunities, feel free to connect with me.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev-aditya-design.github.io/aditya-portfolio-v2/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-adi-xo)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-aditya-design)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.adi.xo@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Learning consistently • Building practically • Growing every day
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+</div>

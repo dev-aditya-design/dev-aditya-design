@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aditya
+# Hi, I'm Aditya
 
 ### AI Developer & Software Engineer
 

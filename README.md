@@ -105,7 +105,8 @@ I’m always interested in opportunities where I can **learn, build, contribute,
 
 <br>
 
-<a href="https://dev-aditya-design.github.io/aditya-portfolio-v2/">
+<a href="https://aditya-in.netlify.app
+
   <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-111827?style=for-the-badge" />
 </a>
 

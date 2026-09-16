@@ -2,7 +2,7 @@
 
 # Hi, I'm Aditya
 
-### AI Developer & Software Engineer
+### Web Developer & Software Engineer
 
 Building practical and user-focused software with  
 **Artificial Intelligence • Software Engineering • Machine Learning • Automation**
